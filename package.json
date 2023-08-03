@@ -1,0 +1,15 @@
+{
+  "name": "challenge18",
+  "version": "1.0.0",
+  "description": "My challenge 18 project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: No tests yet.\" && exit 1"
+  },
+  "author": "Jennifer",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "mongoose": "^7.3.2"
+  }
+}
